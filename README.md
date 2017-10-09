@@ -1,3 +1,3 @@
 # abttAccounts
-Accounting software - built in C# to learn concepts of the language
+Accounting software - built in C# to (re)learn the language
 
